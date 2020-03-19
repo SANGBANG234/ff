@@ -103,20 +103,19 @@ header .menu .nose:hover{
 .logi{
 	padding:0px;
 	margin:0px 0%;
-	width:260px;
-	height:72px;
-	opacity:.8;
-	background:url(../img/brace1.png);
-	background-size:cover;
-	background-position:center;
 	vertical-align:middle;
 	float:left;
+    opacity:.85; 
 	margin-left:2%;
 	position:relative;
 }
+.logo{
+	width:260px;
+	vertical-align:top;
+	z-index:17;
+}
 .logi:hover{
-	opacity:1
-	
+	opacity:1;
 }
 header .textos{
 	width: 100%;
@@ -298,6 +297,7 @@ input {
 	background:url(../img/cac.jpg);
 	background-attachment:fixed;
 	background-size:cover;
+	background-repeat:no-repeat;
 	background-position:center 200px;
 	width:100%;
 	height:600px;
@@ -308,7 +308,6 @@ input {
 
 .main .productos .listapro {
 	width:90%;
-	background-color:red;
 	margin:auto;
 	overflow:hidden;
 	
